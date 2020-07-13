@@ -1,9 +1,53 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+  name: Apache NiFi
+  link: http://nifi.apache.org
+  github: apache/incubator-myriad
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    {:refdef: style="text-align: center;"}
+    ![image](https://nifi.apache.org/assets/images/apache-nifi-logo.svg "Logo Title Text 2"){:height="25%" width="25%"}
+    {: refdef}
+
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+- layout: top-middle
+  name: Apache Myriad
+  link: http://myriad.apache.org
+  github: apache/incubator-myriad
+  description: | # this will include new lines to allow paragraphs
+    {:refdef: style="text-align: center;"}
+    ![image](http://myriad.apache.org/img/navbar_logo.png "Logo Title Text 2"){:height="25%" width="25%"}
+    {: refdef}
+
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Mesos on the same physical infrastructure. By running 
+    Hadoop YARN as a Mesos framework, YARN applications and Mesos 
+    frameworks can run side-by-side, dynamically sharing cluster resources.
+- layout: top-middle
+  name: Apache Mesos Fedora Package 
+  link: http://myriad.apache.org
+  github: apache/incubator-myriad
+  quote: >
+    Deploy Apache YARN Applications Using Apache Mesos
+  description: | # this will include new lines to allow paragraphs
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+- layout: top-middle
+  name: HPC Grid Scheduler Finantial Services
+  github: cediant/hpcservergridscheduler
+  quote: >
+    Deploy Apache YARN Applications Using Apache Mesos
+  description: | # this will include new lines to allow paragraphs
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+- layout: top-middle
+  name: OpenMoko Project
+  link: http://wiki.openmoko.org/wiki/Main_Page
+  github: openmoko
+  quote: >
+    Deploy Apache YARN Applications Using Apache Mesos
+  description: | # this will include new lines to allow paragraphs
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+
+
