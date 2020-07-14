@@ -1,11 +1,11 @@
 # Project template
-- layout: top-middle
+- layout: left
   name: Apache NiFi
   link: http://nifi.apache.org
   github: apache/incubator-myriad
   description: | # this will include new lines to allow paragraphs
     {:refdef: style="text-align: center;"}
-    ![image](https://nifi.apache.org/assets/images/apache-nifi-logo.svg "Logo Title Text 2"){:height="25%" width="25%"}
+    ![image](images/nifi-logo.svg "Logo Title Text 2"){:height="25%" width="25%"}
     {: refdef}
 
     Apache Myriad enables the co-existence of Apache Hadoop and 
@@ -13,41 +13,74 @@
     Apache Myriad enables the co-existence of Apache Hadoop and 
     Apache Myriad enables the co-existence of Apache Hadoop and 
     Apache Myriad enables the co-existence of Apache Hadoop and 
-- layout: top-middle
+- layout: left
   name: Apache Myriad
   link: http://myriad.apache.org
   github: apache/incubator-myriad
   description: | # this will include new lines to allow paragraphs
     {:refdef: style="text-align: center;"}
-    ![image](http://myriad.apache.org/img/navbar_logo.png "Logo Title Text 2"){:height="25%" width="25%"}
+    ![image](images/myriad-logo.png "Logo Title Text 2"){:height="25%" width="25%"}
     {: refdef}
 
     Apache Myriad enables the co-existence of Apache Hadoop and 
     Apache Mesos on the same physical infrastructure. By running 
     Hadoop YARN as a Mesos framework, YARN applications and Mesos 
     frameworks can run side-by-side, dynamically sharing cluster resources.
-- layout: top-middle
+- layout: left
   name: Apache Mesos Fedora Package 
-  link: http://myriad.apache.org
-  github: apache/incubator-myriad
-  quote: >
-    Deploy Apache YARN Applications Using Apache Mesos
+  link: https://src.fedoraproject.org/rpms/mesos
   description: | # this will include new lines to allow paragraphs
+    {:refdef: style="text-align: center;"}
+    ![image](images/fedora-logo.jpg "Logo Title Text 2"){:height="25%" width="25%"}
+    {: refdef}
+
     Apache Myriad enables the co-existence of Apache Hadoop and 
-- layout: top-middle
-  name: HPC Grid Scheduler Finantial Services
-  github: cediant/hpcservergridscheduler
-  quote: >
-    Deploy Apache YARN Applications Using Apache Mesos
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+- layout: left
+  name: Qi Hardware Nanonote
+  link: http://projects.qi-hardware.com/index.php/p/qi-kernel
+  github: kyak/qi-kernel/tree/javiroman/ks7010
   description: | # this will include new lines to allow paragraphs
+    {:refdef: style="text-align: center;"}
+    ![image](images/qi-hardware-logo.png "Logo Title Text 2"){:height="15%" width="15%"}
+    {: refdef}
+    
     Apache Myriad enables the co-existence of Apache Hadoop and 
-- layout: top-middle
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+- layout: left
   name: OpenMoko Project
   link: http://wiki.openmoko.org/wiki/Main_Page
   github: openmoko
-  quote: >
-    Deploy Apache YARN Applications Using Apache Mesos
   description: | # this will include new lines to allow paragraphs
+    {:refdef: style="text-align: center;"}
+    ![image](images/openmoko-logo.png "Logo Title Text 2"){:height="25%" width="25%"}
+    {: refdef}
+
     Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+- layout: left
+  name: Esware Linux Distribution
+  link: http://wiki.openmoko.org/wiki/Main_Page
+  github: openmoko
+  description: | # this will include new lines to allow paragraphs
+    {:refdef: style="text-align: center;"}
+    ![image](images/esware.jpeg "Logo Title Text 2"){:height="25%" width="25%"}
+    {: refdef}
+
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache Myriad enables the co-existence of Apache Hadoop and 
+
 
 
