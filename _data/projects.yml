@@ -27,7 +27,7 @@
     Hadoop YARN as a Mesos framework, YARN applications and Mesos 
     frameworks can run side-by-side, dynamically sharing cluster resources.
 - layout: left
-  name: Apache Mesos Fedora Package 
+  name: Apache Mesos Fedora
   link: https://src.fedoraproject.org/rpms/mesos
   description: | # this will include new lines to allow paragraphs
     {:refdef: style="text-align: center;"}
@@ -68,7 +68,7 @@
     Apache Myriad enables the co-existence of Apache Hadoop and 
     Apache Myriad enables the co-existence of Apache Hadoop and 
 - layout: left
-  name: Esware Linux Distribution
+  name: Esware Linux
   link: http://wiki.openmoko.org/wiki/Main_Page
   github: openmoko
   description: | # this will include new lines to allow paragraphs
