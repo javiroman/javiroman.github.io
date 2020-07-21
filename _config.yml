@@ -20,13 +20,12 @@ linkedin_username: javiroman
 about_title: About Me
 about_profile_image: images/mifoto.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  More than 20 years passionately enjoying the world of <a href="https://www.linkedin.com/groups/61850/">Open Source</a>. My professional career has been developed around four areas.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+    - <mark>Embedded Systems</mark> (Yocto Project, OpenWrt, Embedded Linux Development Kit - ELDK)
+    - <mark>High Performance Computing</mark> (Sun Grid Engine, HTCondor, IceGrid, Slurm)
+    - <mark>Big Data</mark> (Apache Software Foundation Big Data ecosystem)
+    - <mark>Distributed Systems</mark> (Apache Mesos, Kubernetes, Openshift, Mesosphere DC/OS)
 
 # Projects Section
 projects_title: Open Source Contributions
