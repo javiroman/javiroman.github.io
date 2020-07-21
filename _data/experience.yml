@@ -1,10 +1,180 @@
-# Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+  company: KEEDIO
+  link: www.keedio.com
+  job_title: Chief Technology Officer & Innovation Officer
+  dates: November 2016 - present
+  description: | 
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
+    {: refdef}
+
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+- layout: left
+  company: Stratio DB
+  link: www.stratio.com
+  job_title: Chief Technology Officer & Innovation Officer
+  dates: November 2016 - present
+  description: | 
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
+    {: refdef}
+
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+- layout: left
+  company: Red Hat
+  link: www.redhat.com
+  job_title: Chief Technology Officer & Innovation Officer
+  dates: November 2016 - present
+  description: | 
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
+    {: refdef}
+
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+- layout: left
+  company: CEDIANT (UAX)
+  link: www.uax.com
+  job_title: Chief Technology Officer & Innovation Officer
+  dates: November 2016 - present
+  description: | 
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
+    {: refdef}
+
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+- layout: left
+  company: Diebol Nixdorf
+  link: www.uax.com
+  job_title: Chief Technology Officer & Innovation Officer
+  dates: November 2016 - present
+  description: | 
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
+    {: refdef}
+
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+- layout: left
+  company: Telefonica
+  link: www.uax.com
+  job_title: Chief Technology Officer & Innovation Officer
+  dates: November 2016 - present
+  description: | 
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
+    {: refdef}
+
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+- layout: left
+  company: Interlab
+  link: www.uax.com
+  job_title: Chief Technology Officer & Innovation Officer
+  dates: November 2016 - present
+  description: | 
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
+    {: refdef}
+
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+- layout: left
+  company: FON Wireless
+  link: www.uax.com
+  job_title: Chief Technology Officer & Innovation Officer
+  dates: November 2016 - present
+  description: | 
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
+    {: refdef}
+
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+- layout: left
+  company: Prodys
+  link: www.uax.com
+  job_title: Chief Technology Officer & Innovation Officer
+  dates: November 2016 - present
+  description: | 
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
+    {: refdef}
+
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+- layout: left
+  company: DIA% Group
+  link: www.uax.com
+  job_title: Chief Technology Officer & Innovation Officer
+  dates: November 2016 - present
+  description: | 
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
+    {: refdef}
+
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+- layout: left
+  company: Sun Microsystems
+  link: www.uax.com
+  job_title: Chief Technology Officer & Innovation Officer
+  dates: November 2016 - present
+  description: | 
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
+    {: refdef}
+
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+- layout: left
+  company: Esware Linux
+  link: www.uax.com
+  job_title: Chief Technology Officer & Innovation Officer
+  dates: November 2016 - present
+  description: | 
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
+    {: refdef}
+
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
+    Description of role Description of role Description of role Description of role
