@@ -22,10 +22,10 @@ about_profile_image: images/mifoto.jpeg
 about_content: | # this will include new lines to allow paragraphs
   More than 20 years passionately enjoying the world of <a href="https://www.linkedin.com/groups/61850/">Open Source</a>. My professional career has been developed around four areas.
 
-    - <mark>Embedded Systems</mark> (Yocto Project, OpenWrt, Embedded Linux Development Kit - ELDK)
-    - <mark>High Performance Computing</mark> (Sun Grid Engine, HTCondor, IceGrid, Slurm)
     - <mark>Big Data</mark> (Apache Software Foundation Big Data ecosystem)
     - <mark>Distributed Systems</mark> (Apache Mesos, Kubernetes, Openshift, Mesosphere DC/OS)
+    - <mark>High Performance Computing</mark> (Sun Grid Engine, HTCondor, IceGrid, Slurm)
+    - <mark>Embedded Systems</mark> (Yocto Project, OpenWrt, Embedded Linux Development Kit - ELDK)
 
 # Projects Section
 projects_title: Open Source Contributions
