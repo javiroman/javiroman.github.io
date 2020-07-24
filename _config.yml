@@ -29,13 +29,11 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Projects Section
 projects_title: Open Source Contributions
-# Experience Section
 experience_title: Profesional Experience
-# Education Section
+skills_title: Skills
 education_title: Education 
-# More Section
 more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
+more_content: | # this will iNCLUDe new lines to allow paragraphs
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
