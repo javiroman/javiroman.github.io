@@ -8,11 +8,15 @@
     ![image](images/nifi-logo.svg "Logo Title Text 2"){:height="25%" width="25%"}
     {: refdef}
 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Apache NiFi active contributor. Actually the contributions to this kind of huge
+    projects is an ongoing process. My first code contribution was offically added 
+    in the Apache NiFi 1.12.0 release, in the New Feature section. Here a screenshot
+    of the release changelog (marked the particular contribution).
+
+    {:refdef: style="text-align: center;"}
+    ![image](images/nifi-1.12.0-new-feature.png "Logo Title Text 2"){:height="70%" width="70%"}
+    {: refdef}
+
 - layout: left
   name: Apache Myriad
   link: http://myriad.apache.org
@@ -22,10 +26,13 @@
     ![image](images/myriad-logo.png "Logo Title Text 2"){:height="25%" width="25%"}
     {: refdef}
 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Mesos on the same physical infrastructure. By running 
-    Hadoop YARN as a Mesos framework, YARN applications and Mesos 
-    frameworks can run side-by-side, dynamically sharing cluster resources.
+
+    <a href="https://incubator.apache.org/guides/ppmc.html">PPMC (Podling Project Management Committee)</a> for the Apache Myriad Incubator project.
+
+    This project (right now retired) was a higly specializated project in the context
+    of Apache Mesos. According with the official description: 
+    
+    "Apache Myriad enables the co-existence of Apache Hadoop and Apache Mesos on the same physical infrastructure. By running Hadoop YARN as a Mesos framework, YARN applications and Mesos frameworks can run side-by-side, dynamically sharing cluster resources."
 - layout: left
   name: Apache Mesos Fedora
   link: https://src.fedoraproject.org/rpms/mesos
