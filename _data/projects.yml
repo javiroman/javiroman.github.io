@@ -30,9 +30,7 @@
     <a href="https://incubator.apache.org/guides/ppmc.html">PPMC (Podling Project Management Committee)</a> for the Apache Myriad Incubator project.
 
     This project (right now retired) was a higly specializated project in the context
-    of Apache Mesos. According with the official description: 
-    
-    "Apache Myriad enables the co-existence of Apache Hadoop and Apache Mesos on the same physical infrastructure. By running Hadoop YARN as a Mesos framework, YARN applications and Mesos frameworks can run side-by-side, dynamically sharing cluster resources."
+    of Apache Mesos. According with the official description: "Apache Myriad enables the co-existence of Apache Hadoop and Apache Mesos on the same physical infrastructure. By running Hadoop YARN as a Mesos framework, YARN applications and Mesos frameworks can run side-by-side, dynamically sharing cluster resources."
 - layout: left
   name: Apache Mesos Fedora
   link: https://src.fedoraproject.org/rpms/mesos
@@ -41,11 +39,7 @@
     ![image](images/fedora-logo.jpg "Logo Title Text 2"){:height="25%" width="25%"}
     {: refdef}
 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
+    I was the maintainer of the official Apache Mesos package for Fedora. Currently not maintained, due to lack of community and maintenance of the Apache Mesos project.
 - layout: left
   name: Qi Hardware Nanonote
   link: http://projects.qi-hardware.com/index.php/p/qi-kernel
