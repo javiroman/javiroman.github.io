@@ -29,8 +29,13 @@
 
     <a href="https://incubator.apache.org/guides/ppmc.html">PPMC (Podling Project Management Committee)</a> for the Apache Myriad Incubator project.
 
-    This project (right now retired) was a higly specializated project in the context
-    of Apache Mesos. According with the official description: "Apache Myriad enables the co-existence of Apache Hadoop and Apache Mesos on the same physical infrastructure. By running Hadoop YARN as a Mesos framework, YARN applications and Mesos frameworks can run side-by-side, dynamically sharing cluster resources."
+    This project (right now retired) was a higly specializated project in the 
+    context of Apache Mesos. According with the official description: "Apache 
+    Myriad enables the co-existence of Apache Hadoop and Apache Mesos on the 
+    same physical infrastructure. By running Hadoop YARN as a Mesos framework, 
+    YARN applications and Mesos frameworks can run side-by-side, dynamically 
+    sharing cluster resources."
+
 - layout: left
   name: Apache Mesos Fedora
   link: https://src.fedoraproject.org/rpms/mesos
@@ -39,7 +44,10 @@
     ![image](images/fedora-logo.jpg "Logo Title Text 2"){:height="25%" width="25%"}
     {: refdef}
 
-    I was the maintainer of the official Apache Mesos package for Fedora. Currently not maintained, due to lack of community and maintenance of the Apache Mesos project.
+    I was the maintainer of the official Apache Mesos package for Fedora. 
+    Currently not maintained, due to lack of community and maintenance of 
+    the Apache Mesos project.
+
 - layout: left
   name: Qi Hardware Nanonote
   link: http://projects.qi-hardware.com/index.php/p/qi-kernel
@@ -49,11 +57,13 @@
     ![image](images/qi-hardware-logo.png "Logo Title Text 2"){:height="15%" width="15%"}
     {: refdef}
     
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
+    The Ben NanoNote (officially the NanoNote) was  a pocket computer using the 
+    Linux-based OpenWrt operating system. An open-source hardware device developed 
+    by Qi Hardware, it was called the world's smallest Linux laptop. This device
+    was created by the team leaders of OpenMoko initiavite. My personal contrubution
+    was the maintainer of Linux Kernel for the device, in particular the integration
+    of in kernel tree WiFi driver.
+
 - layout: left
   name: OpenMoko Project
   link: http://wiki.openmoko.org/wiki/Main_Page
@@ -63,25 +73,29 @@
     ![image](images/openmoko-logo.png "Logo Title Text 2"){:height="25%" width="25%"}
     {: refdef}
 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Openmoko was project to create a family of open source mobile phones, 
+    including the hardware specification, the operating system (Openmoko Linux), 
+    and actual smartphone development implementation like the Neo 1973 and 
+    Neo FreeRunner. The whole project was sponsored by Openmoko Inc. I was a core
+    developer with contributions around drivers related with the mobile vibrator 
+    and then backlight (screen inteisity) driver. <a href="https://github.com/openmoko/openmoko-svn/blob/c618c442d32c1bb0d7b6f8f36205281bc7326ad4/src/target/kernel/patches/s3c2410-pwm.patch">Some contributions here</a>.
+
 - layout: left
   name: Esware Linux
-  link: http://wiki.openmoko.org/wiki/Main_Page
-  github: openmoko
+  link: https://distrowatch.com/table.php?distribution=esware
   description: | # this will include new lines to allow paragraphs
     {:refdef: style="text-align: center;"}
     ![image](images/esware.jpeg "Logo Title Text 2"){:height="25%" width="25%"}
     {: refdef}
 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Esware Linux was a linux distribution entirely created in Spain. To date 
+    it has been the only linux distribution that was sold in El Corte Inglés. 
+    The distribution used as base a distribution based on RPM packages, later 
+    it started using DEB packages. Esware Linux was very popular in the 
+    Spanish Linux world. I was a founding partner of the company, and I was 
+    in charge of the technical direction of the company (as well as the main 
+    developer).
+
 
 
 

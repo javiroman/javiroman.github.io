@@ -3,7 +3,7 @@ repository: javiroman/javiroman.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Javi Roman (WIP)
+name: Javi Roman (Under construction ...)
 title: Distributed Software Engineer - Cloud Native Big Data Specialist
 email: javiroman@apache.org
 website: https://www.dataintensive.info
@@ -20,7 +20,7 @@ linkedin_username: javiroman
 about_title: About Me
 about_profile_image: images/mifoto.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  More than 20 years passionately enjoying the world of <a href="https://www.linkedin.com/groups/61850/">Open Source</a>. My professional career has been developed around four areas.
+  More than 25 years passionately enjoying the world of <a href="https://www.linkedin.com/groups/61850/">Open Source</a>. My professional career has been developed around four areas.
 
     - <mark>Big Data</mark> (Apache Software Foundation Big Data ecosystem)
     - <mark>Distributed Systems</mark> (Apache Mesos, Kubernetes, Openshift, Mesosphere DC/OS)
