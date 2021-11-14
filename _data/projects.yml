@@ -1,5 +1,18 @@
 # Project template
 - layout: left
+  name: AntelopeDB
+  link: https://antelopedb.github.io/
+  github: antelopedb
+  description: | # this will include new lines to allow paragraphs
+    {:refdef: style="text-align: center;"}
+    ![image](images/antelopedb-logo.svg "Logo Title Text 2"){:height="10%" width="10%"}
+    {: refdef}
+
+    AntelopeDB is a new Hybrid Transaction/Analytical Processing (HTAP) Database 
+    Platform. This is a personal on goning open source project (ASLv2.0) actively 
+    maintained (contributions are welcome). Architecture overview <a href="https://github.com/antelopedb/antelopedb">here</a>.
+
+- layout: left
   name: Apache NiFi
   link: http://nifi.apache.org
   github: apache/incubator-myriad
