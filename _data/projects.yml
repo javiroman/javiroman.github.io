@@ -49,13 +49,6 @@
     YARN applications and Mesos frameworks can run side-by-side, dynamically 
     sharing cluster resources."
 
-    Note: The project is under huge modifications for migrating from the resource scheduler
-    Apache Mesos to the Linux Software Foundation Kubernetes. The idea is to reboot 
-    Apache Myriad with this key code refactoring.
-
-    <a href="https://github.com/javiroman/k8s-myriad">Apache Myriad for Kubernetes</a>
-
-
 - layout: left
   name: Apache Mesos Fedora
   link: https://src.fedoraproject.org/rpms/mesos
