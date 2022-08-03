@@ -47,7 +47,8 @@
     Myriad enables the co-existence of Apache Hadoop and Apache Mesos on the 
     same physical infrastructure. By running Hadoop YARN as a Mesos framework, 
     YARN applications and Mesos frameworks can run side-by-side, dynamically 
-    sharing cluster resources."
+    sharing cluster resources.". <a href="https://github.com/apache/incubator-myriad">Some contributions here</a>.
+
 
 - layout: left
   name: Apache Mesos Fedora
@@ -59,7 +60,8 @@
 
     I was the maintainer of the official Apache Mesos package for Fedora. 
     Currently not maintained, due to lack of community and maintenance of 
-    the Apache Mesos project.
+    the Apache Mesos project.<a href="https://src.fedoraproject.org/user/jromanes">Some contributions here</a>.
+
 
 - layout: left
   name: Qi Hardware Nanonote
@@ -75,7 +77,9 @@
     by Qi Hardware, it was called the world's smallest Linux laptop. This device
     was created by the team leaders of OpenMoko initiavite. My personal contrubution
     was the maintainer of Linux Kernel for the device, in particular the integration
-    of in kernel tree WiFi driver.
+    of in kernel tree WiFi driver. <a href="http://projects.qi-hardware.com/index.php/p/qi-kernel/">Some contributions here</a>.
+
+
 
 - layout: left
   name: OpenMoko Project
