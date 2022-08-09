@@ -1,5 +1,5 @@
 - layout: left
-  company: KEEDIO
+  company: Keedio
   link: www.keedio.com
   job_title: Chief Technology Officer & Innovation Officer
   dates: November 2016 - present
@@ -25,78 +25,91 @@
 - layout: left
   company: Stratio DB
   link: www.stratio.com
-  job_title: Chief Technology Officer & Innovation Officer
-  dates: November 2016 - present
+  job_title: Big Data Software Architect
+  dates: Mar 2017 - Nov 2018 (1 yr 9 mos)
   description: | 
     {:refdef: style="text-align: left;"}
     ![My image Name](images/stratio-logo.png){:height="10%" width="10%"}
     {: refdef}
 
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
+    * Big Data as a Service
+    * Microservices Architectures
+    * Data Intensive Architectures
+    * PaaS Big Data oriented with Red Hat Openshift and Mesosphere DCOS (Mesos)
+
 - layout: left
   company: Red Hat
   link: www.redhat.com
-  job_title: Chief Technology Officer & Innovation Officer
-  dates: November 2016 - present
+  job_title: Senior Architect
+  dates: Nov 2014 - Mar 2017 (2 yrs 5 mos)
   description: | 
     {:refdef: style="text-align: left;"}
     ![My image Name](images/redhat-logo.png){:height="10%" width="10%"}
     {: refdef}
 
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
+    <br>
+     OpenShift Container Platform architect. Architect for the client Mercadona 
+     focused on design, architecture, consulting and advice on the entire 
+     Red Hat technology portfolio.
+
+    * Big Data as a Service (OpenShift Origin)
+    * Big Data Enterprise Architectures
+    * Data-intensive Computing
+    * High Performance/Throughput Computing
+
 - layout: left
   company: CEDIANT (UAX)
   link: www.uax.com
-  job_title: Chief Technology Officer & Innovation Officer
-  dates: November 2016 - present
+  job_title: HPC/Big Data Principal Architect
+  dates: Nov 2011 - Nov 2014 (3 yrs 1 mo)
   description: | 
     {:refdef: style="text-align: left;"}
     ![My image Name](images/cediant-logo.png){:height="10%" width="10%"}
     {: refdef}
 
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
+    <br>
+
+    High Performance Computing and Big Data engineering architect at technology 
+    based company at Universidad Alfonso X El Sabio.
+
+    Technical background:
+
+    * HPC Job Schedulers:
+
 - layout: left
-  company: Wincor Nixdorf
-  link: www.uax.com
-  job_title: Chief Technology Officer & Innovation Officer
-  dates: November 2016 - present
+  company: Diebold Nixdorf
+  link: www.dieboldnixdorf.com
+  job_title: Embedded Linux Engineer (Retail Systems)
+  dates: Mar 2009 - Nov 2011 (2 yrs 9 mos)
   description: | 
     {:refdef: style="text-align: left;"}
     ![My image Name](images/wincor-nixdorf.png){:height="10%" width="10%"}
     {: refdef}
 
+    <br>
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
+
 - layout: left
-  company: Telefonica
-  link: www.uax.com
-  job_title: Chief Technology Officer & Innovation Officer
-  dates: November 2016 - present
+  company: Telefónica Digital
+  link: https://www.telefonica.com
+  job_title: Embedded Linux Engineer (Automotive Systems)
+  dates: Feb 2008 - Mar 2009 (1 yr 2 mos)
   description: | 
     {:refdef: style="text-align: left;"}
     ![My image Name](images/telefonica-logo.png){:height="10%" width="10%"}
     {: refdef}
 
+    <br>
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
+
 - layout: left
   company: Interlab
   link: www.uax.com
@@ -107,11 +120,13 @@
     ![My image Name](images/interlab-logo.png){:height="10%" width="10%"}
     {: refdef}
 
+    <br>
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
+
 - layout: left
   company: FON Wireless
   link: www.uax.com
@@ -122,11 +137,13 @@
     ![My image Name](images/fon-logo.png){:height="10%" width="10%"}
     {: refdef}
 
+    <br>
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
+
 - layout: left
   company: Prodys
   link: www.uax.com
@@ -137,11 +154,13 @@
     ![My image Name](images/prodys-logo.jpg){:height="10%" width="10%"}
     {: refdef}
 
+    <br>
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
+
 - layout: left
   company: DIA% Group
   link: www.uax.com
@@ -152,11 +171,13 @@
     ![My image Name](images/dia-logo.jpg){:height="10%" width="10%"}
     {: refdef}
 
+    <br>
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
+
 - layout: left
   company: Sun Microsystems
   link: www.uax.com
@@ -167,6 +188,7 @@
     ![My image Name](images/sun-logo.png){:height="10%" width="10%"}
     {: refdef}
 
+    <br>
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
     Description of role Description of role Description of role Description of role
@@ -183,8 +205,12 @@
     ![My image Name](images/esware.jpeg){:height="10%" width="10%"}
     {: refdef}
 
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
+    <br>
+    Esware Linux was company dedicated to facilitate development and encourage 
+    the creation of GNU/Linux projects, but ESware Linux not only develops a 
+    GNU/Linux Operating System, but also provides a global services structure 
+    that allows companies, professionals and home users to make Linux possible.
+    Digital Mood announced that has acquired 40 percent of ESware Linux through
+    the subscription of the first capital increase of this Spanish technology 
+    company dedicated to commercialization of Linux software and consulting and
+    training on this operating system.
