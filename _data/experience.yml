@@ -36,6 +36,7 @@
     * Microservices Architectures
     * Data Intensive Architectures
     * PaaS Big Data oriented with Red Hat Openshift and Mesosphere DCOS (Mesos)
+    * Member of core team focused into installation process and bootstrapping with Red Hat Ansible.
 
 - layout: left
   company: Red Hat
@@ -55,6 +56,7 @@
     * Big Data as a Service (OpenShift Origin)
     * Big Data Enterprise Architectures
     * Data-intensive Computing
+    * JBoss Data Virtualization platform
     * High Performance/Throughput Computing
 
 - layout: left
@@ -75,6 +77,20 @@
     Technical background:
 
     * HPC Job Schedulers:
+      IBM Platform LSF
+      IBM Platform Symphony
+      TIBCO Datasynapse GridServer 
+      HTCondor
+      Open Grid Scheduler (Sun Grid Engine - SGE)
+    * HPC hardware Accelerators:
+      NVIDIA Tesla
+      Intel Xeon Phi
+    * Programming frameworks and languages:
+      OpenCL
+      NVIDIA CUDA
+      OpenMP - MPI
+      C/C++, Python, Java
+    * BigData product development ecosystem.
 
 - layout: left
   company: Diebold Nixdorf
@@ -87,11 +103,13 @@
     {: refdef}
 
     <br>
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
+    Wincor Nixdorf Spain Embedded Linux Engineer.
+
+    Wincor Nixdorf POS hardware specialist for WN retail customers: 
+    Carrefour, DIA, Mercadona, Caprabo, FeuVert, Leory Merlin, Eroski.
+
+    JavaPOS/Unified POS. Red Hat hardware certification (WN Beetle /iCLiCK). 
+    System programming. OS tunning, POS driver integrations.
 
 - layout: left
   company: Telefónica Digital
@@ -100,15 +118,23 @@
   dates: Feb 2008 - Mar 2009 (1 yr 2 mos)
   description: | 
     {:refdef: style="text-align: left;"}
-    ![My image Name](images/telefonica-logo.png){:height="10%" width="10%"}
+    ![My image Name](images/telefonica-logo.png){:height="20%" width="20%"}
     {: refdef}
 
     <br>
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
+    Member of Networked Vehicles Division at Telefonica I+D, TELINX distribution creator.
+
+    Technology involved: 
+
+    TELINX: Telefónica Linux OS an OpenEmbedded based distribution for:
+
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/TELINX.jpeg){:height="30%" width="30%"}
+    {: refdef}
+
+    * Automotive On Boar Units (OBUs)
+    * Automotive Infraestructure Road Side Units (RSUs)
+    * Infotainments MIDs.
 
 - layout: left
   company: Interlab
@@ -117,7 +143,7 @@
   dates: November 2016 - present
   description: | 
     {:refdef: style="text-align: left;"}
-    ![My image Name](images/interlab-logo.png){:height="10%" width="10%"}
+    ![My image Name](images/interlab-logo.png){:height="20%" width="20%"}
     {: refdef}
 
     <br>
