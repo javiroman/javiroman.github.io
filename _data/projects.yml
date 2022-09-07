@@ -42,7 +42,7 @@
 
     <a href="https://incubator.apache.org/guides/ppmc.html">PPMC (Podling Project Management Committee)</a> for the Apache Myriad Incubator project.
 
-    This project (right now retired) was a higly specializated project in the 
+    This project (right now retired) was a highly specializated project in the 
     context of Apache Mesos. According with the official description: "Apache 
     Myriad enables the co-existence of Apache Hadoop and Apache Mesos on the 
     same physical infrastructure. By running Hadoop YARN as a Mesos framework, 
@@ -90,12 +90,12 @@
     ![image](images/openmoko-logo.png "Logo Title Text 2"){:height="25%" width="25%"}
     {: refdef}
 
-    Openmoko was project to create a family of open source mobile phones, 
+    Openmoko was a project to create a family of open source mobile phones, 
     including the hardware specification, the operating system (Openmoko Linux), 
     and actual smartphone development implementation like the Neo 1973 and 
     Neo FreeRunner. The whole project was sponsored by Openmoko Inc. I was a core
     developer with contributions around drivers related with the mobile vibrator 
-    and then backlight (screen inteisity) driver. <a href="https://github.com/openmoko/openmoko-svn/blob/c618c442d32c1bb0d7b6f8f36205281bc7326ad4/src/target/kernel/patches/s3c2410-pwm.patch">Some contributions here</a>.
+    and the backlight (screen inteisity) PWM driver. <a href="https://github.com/openmoko/openmoko-svn/blob/c618c442d32c1bb0d7b6f8f36205281bc7326ad4/src/target/kernel/patches/s3c2410-pwm.patch">Some contributions here</a>.
 
 - layout: left
   name: Esware Linux

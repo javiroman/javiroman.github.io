@@ -1,8 +1,8 @@
 - layout: left
   company: Keedio
-  link: www.keedio.com
-  job_title: Chief Technology Officer & Innovation Officer
-  dates: November 2016 - present
+  link: https://www.keedio.com/
+  job_title: Software Engineer - CTO & Innovation Officer
+  dates: Nov 2018 - present
   description: | 
     {:refdef: style="text-align: left;"}
     ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
@@ -24,7 +24,7 @@
 
 - layout: left
   company: Stratio DB
-  link: www.stratio.com
+  link: https://www.stratio.com/home
   job_title: Big Data Software Architect
   dates: Mar 2017 - Nov 2018 (1 yr 9 mos)
   description: | 
@@ -40,7 +40,7 @@
 
 - layout: left
   company: Red Hat
-  link: www.redhat.com
+  link: https://www.redhat.com/en
   job_title: Senior Architect
   dates: Nov 2014 - Mar 2017 (2 yrs 5 mos)
   description: | 
@@ -61,8 +61,8 @@
 
 - layout: left
   company: CEDIANT (UAX)
-  link: www.uax.com
-  job_title: HPC/Big Data Principal Architect
+  link: https://www.uax.com/
+  job_title: HPC/Big Data Principal Architect and Software Engineer
   dates: Nov 2011 - Nov 2014 (3 yrs 1 mo)
   description: | 
     {:refdef: style="text-align: left;"}
@@ -94,8 +94,8 @@
 
 - layout: left
   company: Diebold Nixdorf
-  link: www.dieboldnixdorf.com
-  job_title: Embedded Linux Engineer (Retail Systems)
+  link: https://www.dieboldnixdorf.com/en-us/
+  job_title: Embedded Linux Software Engineer (Retail Systems)
   dates: Mar 2009 - Nov 2011 (2 yrs 9 mos)
   description: | 
     {:refdef: style="text-align: left;"}
@@ -114,7 +114,7 @@
 - layout: left
   company: Telefónica Digital
   link: https://www.telefonica.com
-  job_title: Embedded Linux Engineer (Automotive Systems)
+  job_title: Embedded Linux Software Engineer (Automotive Systems)
   dates: Feb 2008 - Mar 2009 (1 yr 2 mos)
   description: | 
     {:refdef: style="text-align: left;"}
@@ -138,71 +138,86 @@
 
 - layout: left
   company: Interlab
-  link: www.uax.com
-  job_title: Chief Technology Officer & Innovation Officer
-  dates: November 2016 - present
+  link: https://www.interlab.es/
+  job_title: Embedded Sofware Engineer (VxWorks)
+  dates: Jul 2007 - Feb 2008 (8 mos)
   description: | 
     {:refdef: style="text-align: left;"}
     ![My image Name](images/interlab-logo.png){:height="20%" width="20%"}
     {: refdef}
 
     <br>
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
+    Wind River VxWorks Board Support Package embedded software engineer.
+
+    Technology involved:
+
+    * PowerPC industrial board for Radar control.
+    * VxWorks Ethernet Bonding driver for PPC 860T microcontroller.
 
 - layout: left
   company: FON Wireless
-  link: www.uax.com
-  job_title: Chief Technology Officer & Innovation Officer
-  dates: November 2016 - present
+  link: https://fon.com/
+  job_title: Embedded Linux Software Engineer (Router Systems)
+  dates: Feb 2007 - Jul 2007 (6 mos)
   description: | 
     {:refdef: style="text-align: left;"}
     ![My image Name](images/fon-logo.png){:height="10%" width="10%"}
     {: refdef}
 
     <br>
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
+    Member of FON routers (La Fonera) Firmware Team.
+
+    Technology involved:
+
+    * Atheros AR5006 SoC
+    * OpenWrt Linux distribution for embedded devices
 
 - layout: left
   company: Prodys
-  link: www.uax.com
-  job_title: Chief Technology Officer & Innovation Officer
-  dates: November 2016 - present
+  link: https://www.prodys.net/
+  job_title: Embedded Linux Software Engineer (Audio Appliances)
+  dates: Jun 2006 - Feb 2007 (9 mos)
   description: | 
     {:refdef: style="text-align: left;"}
     ![My image Name](images/prodys-logo.jpg){:height="10%" width="10%"}
     {: refdef}
 
     <br>
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
+    Linux kernel developer for firmware departement at Prodys:
+
+    Deployment of real time capacities for audio appliances with RTAI Linux 
+    kernel extensions and real time TCP/IP stack RTNET. Integration of FEC 
+    ethernet driver with RTNET for Freescale 860T PPC processors.
+
+    Development with:
+
+    * MontaVista Linux Professional Edition SDK
+    * Embedded Linux Development Kit (ELDK) from DENX Software Engineering.
 
 - layout: left
   company: DIA% Group
-  link: www.uax.com
-  job_title: Chief Technology Officer & Innovation Officer
-  dates: November 2016 - present
+  link: https://diacorporate.com/en/
+  job_title: Embedded Linux Software Engineer Team Leader (Retail Systems)
+  dates: Jan 2001 - Jun 2006 (5 yrs 6 mos)
   description: | 
     {:refdef: style="text-align: left;"}
     ![My image Name](images/dia-logo.jpg){:height="10%" width="10%"}
     {: refdef}
 
     <br>
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
+    Point of Sale System Department technical responsible for DIA% Group supermarket.
+
+    Head of POS R&D department. Most of my responsibilities involved to analyze 
+    the impact of new systems or technologies in the POS systems or POS environment. 
+    The inclusion of new hardware (RAID controllers for POS, hand-helds, fiscal 
+    printers, modems, ...) could affect the correct operation of over 15 thousand 
+    Linux heterogeneous POS systems (Wincor-Nixdorf, IBM, Itautec retail systems).
+
+    Development and deployment of full Linux Red Hat based distro for 
+    Wincor-Nixdorf POS Beetle Systems, and IBM POS 4694 for DIA supermarket.
+
+    "DIA% Linux 1.0" was the world's first deployment of Linux in massive 
+    retail environment.
 
 - layout: left
   company: Sun Microsystems
