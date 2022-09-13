@@ -185,9 +185,10 @@
     <br>
     Linux kernel developer for firmware departement at Prodys:
 
-    Deployment of real time capacities for audio appliances with RTAI Linux 
-    kernel extensions and real time TCP/IP stack RTNET. Integration of FEC 
-    ethernet driver with RTNET for Freescale 860T PPC processors.
+    Deployment of real time capacities for audio appliances with 
+    <a href="https://www.rtai.org/">RTAI Linux</a> kernel extensions and real 
+    time TCP/IP stack <a href="http://www.rtnet.org/">RTNET</a>. Integration of 
+    FEC ethernet driver with RTNET for Freescale 860T PPC processors.
 
     Development with:
 
@@ -216,31 +217,31 @@
     Development and deployment of full Linux Red Hat based distro for 
     Wincor-Nixdorf POS Beetle Systems, and IBM POS 4694 for DIA supermarket.
 
-    "DIA% Linux 1.0" was the world's first deployment of Linux in massive 
+    **DIA% Linux Distribution** was the world's first deployment of Linux in massive 
     retail environment.
 
 - layout: left
   company: Sun Microsystems
-  link: www.uax.com
-  job_title: Chief Technology Officer & Innovation Officer
-  dates: November 2016 - present
+  link: https://www.sun.com
+  job_title: Sun Microsystems Training Services Instructor
+  dates: Oct 2000 - Jan 2001 (4 mos)
   description: | 
     {:refdef: style="text-align: left;"}
     ![My image Name](images/sun-logo.png){:height="10%" width="10%"}
     {: refdef}
 
     <br>
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
-    Description of role Description of role Description of role Description of role
+    Instructor for serveral Sun officials courses, like:
+
+    * Fundamentals of Solaris 8 for Systems Administrators.
+    * Solaris 8 System Administration I.
+    * Shell Programming for Systems Administrators.
 
 - layout: left
-  company: Esware Linux
-  link: www.uax.com
-  job_title: Chief Technology Officer & Innovation Officer
-  dates: November 2016 - present
+  company: Esware Linux S.A.
+  link: https://www.esware.com
+  job_title: Head and co-founder Esware Linux Operating System
+  dates: Sep 1999 - Sep 2000 (1 yr 1 mo)
   description: | 
     {:refdef: style="text-align: left;"}
     ![My image Name](images/esware.jpeg){:height="10%" width="10%"}

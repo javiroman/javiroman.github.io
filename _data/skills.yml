@@ -6,22 +6,20 @@
     ![image](images/quarkus-logo-horizontal.png "Logo Title Text 2"){:width="50%"}
     {:refdef}
 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
+    <br>
+    * **Java Software Engineer**: SOLID principles, Design patterns, JVM performance tuning.
+    * **Red Hat Quarkus**: Java framework tailored for deployment on Kubernetes. 
+      Key technology components surrounding it are OpenJDK HotSpot and GraalVM. 
 
     {:refdef: style="text-align: center;"}
     ![image](images/golang-logo.png "Logo Title Text 1"){:width="30%" style="margin-right:10px"}
     ![image](images/operator-SDK-logo.jpg "Logo Title Text 2"){:width="40%"}
     {:refdef}
 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
+    <br>
+    * **Go Software Engineer**: SOLID principles, Design patterns.
+    * **Go Operator SDK**: An open source toolkit to manage Kubernetes native 
+    applications, called Operators, in an effective, automated, and scalable way.
 
 - layout: left
   name: System Skills
