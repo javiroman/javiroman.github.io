@@ -41,15 +41,33 @@
       <td>
         <br/><img src="images/apache-mesos-logo.png" width="25%" height="25%" /><br/>
       </td>
-      <td>Apache Mesos with Marathon framework</td>
-      <td>Vanilla Kubernetes with Kubeadm</td>
+      <td>Apache Mesos</td>
+      <td>Apache Mesos abstracts CPU, memory, storage, and other compute resources
+      away from machines (physical or virtual), enabling fault-tolerant and elastic
+      distributed systems using containers technology</td>
     </tr>
     <tr>
       <td>
         <br/><img src="images/openshift-logo.png" width="25%" height="25%" /><br/>
       </td>
       <td>Red Hat Openshift Container Platform</td>
-      <td>Vanilla Kubernetes with Kubeadm</td>
+      <td>OpenShift Container Platform (formerly known as OpenShift Enterprise) 
+      is Red Hat's on-premises private platform as a service product</td>
+    </tr>
+    <tr>
+      <td>
+        <br/><img src="images/mesosphere-logo.png" width="25%" height="25%" /><br/>
+      </td>
+      <td>D2IQ Mesosphere DC/OS</td>
+      <td>Datacenter Operating System built with Apache Mesos</td>
+    </tr>
+    <tr>
+      <td>
+        <br/><img src="images/podman-logo.png" width="25%" height="25%" /><br/>
+      </td>
+      <td>Red Hat Podman</td>
+      <td>Podman is an alternative to Docker, providing a similar interface. It 
+      supports rootless containers and a shim service for docker-compose.</td>
     </tr>
     </table>
     <br>
@@ -61,12 +79,90 @@
     </tr>
     <tr>
       <td>Alfreds Futterkiste</td>
-      <td>Maria Anders</td>
+      <td>Apache NiFi</td>
       <td>Germany</td>
     </tr>
     <tr>
       <td>Centro comercial Moctezuma</td>
-      <td>Francisco Chang</td>
+      <td>Apache Hadoop HDFS, Hadoop YARN</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Apache Kudu</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Apache Impala</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Apache Hive</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Apache Kafka</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Apache Spark</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Apache Superset</td>
+      <td>Mexico</td>
+    </tr>
+    </table>
+    <br>
+    <table>
+    <tr>
+      <th>System Technology</th>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>Alfreds Futterkiste</td>
+      <td>Harshicop Vagrant</td>
+      <td>Germany</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Harshicop Vault</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Harshicop Consul</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Kerberos</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Open LDAP</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Apache Kafka</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Apache Spark</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Apache Superset</td>
       <td>Mexico</td>
     </tr>
     </table>
