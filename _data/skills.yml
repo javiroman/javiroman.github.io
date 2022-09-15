@@ -24,11 +24,55 @@
 - layout: left
   name: System Skills
   description: | 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
+    <table>
+    <tr>
+      <th>Containers Technology</th>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>
+        <br/><img src="images/kubernetes-logo.png" width="10%" height="10%" /><br/>
+      </td>
+      <td>Kubernetes</td>
+      <td>Vanilla Kubernetes with Kubeadm</td>
+    </tr>
+    <tr>
+      <td>
+        <br/><img src="images/apache-mesos-logo.png" width="25%" height="25%" /><br/>
+      </td>
+      <td>Apache Mesos with Marathon framework</td>
+      <td>Vanilla Kubernetes with Kubeadm</td>
+    </tr>
+    <tr>
+      <td>
+        <br/><img src="images/openshift-logo.png" width="25%" height="25%" /><br/>
+      </td>
+      <td>Red Hat Openshift Container Platform</td>
+      <td>Vanilla Kubernetes with Kubeadm</td>
+    </tr>
+    </table>
+    <br>
+    <table>
+    <tr>
+      <th>Big Data Technology</th>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>Alfreds Futterkiste</td>
+      <td>Maria Anders</td>
+      <td>Germany</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Francisco Chang</td>
+      <td>Mexico</td>
+    </tr>
+    </table>
+
+
+
 - layout: left
   name: Methodological Skills
   description: | 
