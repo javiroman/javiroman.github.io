@@ -78,43 +78,73 @@
       <th>Description</th>
     </tr>
     <tr>
-      <td>Alfreds Futterkiste</td>
+      <td>
+        <br/><img src="images/nifi-logo.png" width="15%" height="15%" /><br/>
+      </td>
       <td>Apache NiFi</td>
       <td>Germany</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
+      <td>
+        <br/><img src="images/hadoop-logo.png" width="15%" height="15%" /><br/>
+      </td>
       <td>Apache Hadoop HDFS, Hadoop YARN</td>
       <td>Mexico</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
+      <td>
+        <br/><img src="images/kudu-logo.png" width="15%" height="15%" /><br/>
+      </td>
       <td>Apache Kudu</td>
       <td>Mexico</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
+      <td>
+        <br/><img src="images/impala-logo.png" width="10%" height="10%" /><br/>
+      </td>
       <td>Apache Impala</td>
       <td>Mexico</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
+      <td>
+        <br/><img src="images/hive-logo.png" width="15%" height="15%" /><br/>
+      </td>
       <td>Apache Hive</td>
       <td>Mexico</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
+      <td>
+        <br/><img src="images/kafka-logo.png" width="10%" height="10%" /><br/>
+      </td>
       <td>Apache Kafka</td>
       <td>Mexico</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
+      <td>
+        <br/><img src="images/spark-logo.png" width="10%" height="10%" /><br/>
+      </td>
       <td>Apache Spark</td>
       <td>Mexico</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
-      <td>Apache Superset</td>
+      <td>
+        <br/><img src="images/ranger-logo.png" width="15%" height="15%" /><br/>
+      </td>
+      <td>Apache Ranger</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>
+        <br/><img src="images/atlas-logo.png" width="15%" height="15%" /><br/>
+      </td>
+      <td>Apache Atlas</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>
+        <br/><img src="images/debezium-logo.png" width="15%" height="15%" /><br/>
+      </td>
+      <td>Red Hat Debezium CDC</td>
       <td>Mexico</td>
     </tr>
     </table>
