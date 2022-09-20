@@ -156,44 +156,60 @@
       <th>Description</th>
     </tr>
     <tr>
-      <td>Alfreds Futterkiste</td>
+      <td>
+        <br/><img src="images/vagrant-logo.png" width="15%" height="15%" /><br/>
+      </td>
       <td>Harshicop Vagrant</td>
-      <td>Germany</td>
+      <td>Virtualization</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
+      <td>
+        <br/><img src="images/vault-logo.png" width="15%" height="15%" /><br/>
+      </td>
       <td>Harshicop Vault</td>
-      <td>Mexico</td>
+      <td>Security</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
+      <td>
+        <br/><img src="images/consul-logo.png" width="15%" height="15%" /><br/>
+      </td>
       <td>Harshicop Consul</td>
-      <td>Mexico</td>
+      <td>Service Discovery</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
+      <td>
+        <br/><img src="images/kerberos-logo.jpg" width="15%" height="15%" /><br/>
+      </td>
       <td>Kerberos</td>
-      <td>Mexico</td>
+      <td>Security</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
+      <td>
+        <br/><img src="images/openldap-logo.png" width="25%" height="25%" /><br/>
+      </td>
       <td>Open LDAP</td>
-      <td>Mexico</td>
+      <td>Security</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
-      <td>Apache Kafka</td>
-      <td>Mexico</td>
+      <td>
+        <br/><img src="images/ansible-logo.png" width="15%" height="15%" /><br/>
+      </td>
+      <td>Ansible</td>
+      <td>Infrastructure as code (IaC)</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
-      <td>Apache Spark</td>
-      <td>Mexico</td>
+      <td>
+        <br/><img src="images/saltstack-logo.png" width="15%" height="15%" /><br/>
+      </td>
+      <td>Salt Stack</td>
+      <td>Infrastructure as code (IaC)</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
-      <td>Apache Superset</td>
-      <td>Mexico</td>
+      <td>
+        <br/><img src="images/yocto-logo.png" width="25%" height="25%" /><br/>
+      </td>
+      <td>Yocto Project</td>
+      <td>Embedded Systems</td>
     </tr>
     </table>
 

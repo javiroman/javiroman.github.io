@@ -1,9 +1,13 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Universidad de Huelva
+  dates: 1990 - 1995
+  qualification: Bachelor’s Degree in Computer Science
   quote: >
-    Short institution or course description (optional)
+    Bachelor’s Degree in Computer Science
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    The Bachelor of Computer Science or Bachelor of Science in Computer Science 
+    (abbreviated BCompSc, BCS, BSCS, BACS or B.Sc. CS) is a type of bachelor's 
+    degree awarded after collegiate study in computer science. In general, 
+    computer science degree programs emphasize the mathematical and theoretical 
+    foundations of computing.
