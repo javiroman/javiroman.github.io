@@ -218,8 +218,35 @@
 - layout: left
   name: Methodological Skills
   description: | 
-   Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
-    Apache Myriad enables the co-existence of Apache Hadoop and 
+    Solid hands-on experience in the execution of development projects using two 
+    agile methodologies:
+
+      * Scrum framework
+      * Scrumban agile approach (hybrid of Scrum and Kanban)
+
+    I incorporate in my methodological knowledge for software development two 
+    software testing techniques based on the following testing frameworks:
+
+     <table>
+      <tr>
+        <th>Testing Framework</th>
+        <th>Name</th>
+        <th>Metodology</th>
+      </tr>
+      <tr>
+        <td>
+          <br/><img src="images/cucumber-logo.png" width="35%" height="35%" /><br/>
+        </td>
+        <td>Cucumber Framework</td>
+        <td>Behavior-Driven Development (BDD)</td>
+      </tr>
+      <tr>
+        <td>
+          <br/><img src="images/robot-logo.jpg" width="35%" height="35%" /><br/>
+        </td>
+        <td>Robot Framework</td>
+        <td>Robotic Process Automation (RPA)</td>
+      </tr>
+      </table>
+
+
