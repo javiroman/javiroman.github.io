@@ -21,6 +21,21 @@
     * **Go Operator SDK**: An open source toolkit to manage Kubernetes native 
     applications, called Operators, in an effective, automated, and scalable way.
 
+    {:refdef: style="text-align: center;"}
+    ![image](images/python-logo.png "Logo Title Text 1"){:width="10%" style="margin-right:10px"}
+    ![image](images/react-logo.png "Logo Title Text 1"){:width="10%" style="margin-right:10px"}
+    ![image](images/patternfly-logo.png "Logo Title Text 1"){:width="30%" style="margin-right:30px"}
+    ![image](images/erlang-logo.png "Logo Title Text 1"){:width="10%" style="margin-right:30px"}
+    {:refdef}
+
+    <br>
+    * **Python**: Many years programming in Python from small CLI tools to API
+      REST, RPCs (Zeroc Framework), and HPC complete frameworks. Some example in 
+    following table:
+    * **ReacJS**: ReactJS, Javascript, TypeScript, and other front technologies, with
+      strong experince in Red Hat Patternfly framework.
+    * **Erlang**: Some experience in Erlang just for fun and study of this programming language.
+
 - layout: left
   name: System Skills
   description: | 
