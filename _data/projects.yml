@@ -1,8 +1,8 @@
 # Project template
 - layout: left
   name: Kubernetes Big Data Engineering Group
-  link: https://github.com/kubernetes-big-data-eg
-  github: kubernetes-big-data-eg
+  link: https://github.com/kubernetesbigdataeg
+  github: kubernetesbigdataeg
   description: | # this will include new lines to allow paragraphs
     {:refdef: style="text-align: center;"}
     ![image](images/kubernetes-big-data-eg.png "Logo Title Text 2"){:height="30%" width="30%"}
