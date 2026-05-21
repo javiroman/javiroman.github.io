@@ -20,12 +20,14 @@ linkedin_username: javiroman
 about_title: About Me
 about_profile_image: images/javiroman-linkedin.jpg
 about_content: | # this will include new lines to allow paragraphs
-  More than 25 years passionately enjoying the world of <a href="https://www.linkedin.com/groups/61850/">Open Source</a>. My professional career has been developed around four areas.
+  Software architect and engineer with 25+ years of progressive expertise spanning the full technology stack. I excel at translating between purely technical implementation and strategic architecture, designing resilient systems from hardware to application layer.
 
-    - <mark>Big Data</mark> (Apache Software Foundation Big Data ecosystem)
-    - <mark>Distributed Systems</mark> (Apache Mesos, Kubernetes, Openshift, Mesosphere DC/OS)
-    - <mark>High Performance Computing</mark> (Sun Grid Engine, HTCondor, IceGrid, Slurm)
-    - <mark>Embedded Systems</mark> (Yocto Project, OpenWrt, Embedded Linux Development Kit - ELDK)
+  - <mark>Low-level systems</mark>: Embedded Linux, kernel development, real-time computing, hardware acceleration (CUDA, OpenCL)
+  - <mark>Mid-layer infrastructure</mark>: Kubernetes, OpenShift, Apache Mesos, container orchestration at scale
+  - <mark>Enterprise architecture</mark>: Big Data platforms, cloud-native systems (AWS/Azure/GCP), FinOps, microservices
+  - <mark>AI Engineering</mark>: Integrating machine learning systems and MLOps workflows into cloud-native architectures
+
+  <a href="https://www.linkedin.com/groups/61850/">Open Source</a> advocate, Apache Committer, and FinOps Certified Practitioner — helping organizations build systems that are both technically sound and strategically aligned.
 
 # Projects Section
 projects_title: Open Source Contributions
