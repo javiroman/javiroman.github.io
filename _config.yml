@@ -6,7 +6,8 @@ favicon: images/favicon.ico
 name: Javi Roman
 title: Distributed Software Engineer - Cloud Native Big Data Specialist
 email: javiroman@apache.org
-website: https://www.dataintensive.info
+website: https://artificial-intelligence-engineering.github.io/
+website_text: AI Engineering Blog
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -17,7 +18,7 @@ linkedin_username: javiroman
 
 # About Section
 about_title: About Me
-about_profile_image: images/mifoto.jpeg
+about_profile_image: images/javiroman-linkedin.jpg
 about_content: | # this will include new lines to allow paragraphs
   More than 25 years passionately enjoying the world of <a href="https://www.linkedin.com/groups/61850/">Open Source</a>. My professional career has been developed around four areas.
 
