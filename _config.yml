@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Javi Roman
-title: Distributed Software Engineer - Cloud Native Big Data Specialist
+title: Cloud Native Data Architect | AI Engineer
 email: javiroman@apache.org
 website: https://artificial-intelligence-engineering.github.io/
 website_text: AI Engineering Blog
@@ -20,14 +20,19 @@ linkedin_username: javiroman
 about_title: About Me
 about_profile_image: images/javiroman-linkedin.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Software architect and engineer with 25+ years of progressive expertise spanning the full technology stack. I excel at translating between purely technical implementation and strategic architecture, designing resilient systems from hardware to application layer.
+  Software/System architect and engineer with 30+ years of progressive expertise spanning the full technology stack.
+  
+  I thrive moving fluently between pure technical depth and high-level strategy, enabling organisations to build systems 
+  that are both technically sound and strategically aligned. [Open Source](https://www.linkedin.com/groups/61850/) advocate 
+  · Apache Committer · Fedora packager.
 
-  - <mark>Low-level systems</mark>: Embedded Linux, kernel development, real-time computing, hardware acceleration (CUDA, OpenCL)
-  - <mark>Mid-layer infrastructure</mark>: Kubernetes, OpenShift, Apache Mesos, container orchestration at scale
-  - <mark>Enterprise architecture</mark>: Big Data platforms, cloud-native systems (AWS/Azure/GCP), FinOps, microservices
-  - <mark>AI Engineering</mark>: Integrating machine learning systems and MLOps workflows into cloud-native architectures
+  | | |
+  |---|---|
+  | <mark>Low-level systems</mark> | Embedded Linux (OpenEmbedded/Yocto), kernel development, hard real time computing, hardware acceleration (CUDA, OpenCL) |
+  | <mark>Mid-layer infrastructure</mark> | Kubernetes, OpenShift, Apache Mesos, container orchestration at scale |
+  | <mark>Enterprise architecture</mark> | Big Data platforms, cloud-native systems, AWS architect |
+  | <mark>AI Engineering</mark> | Product development on top of Large Language Models *(current focus)* |
 
-  <a href="https://www.linkedin.com/groups/61850/">Open Source</a> advocate, Apache Committer, and FinOps Certified Practitioner — helping organizations build systems that are both technically sound and strategically aligned.
 
 # Projects Section
 projects_title: Open Source Contributions

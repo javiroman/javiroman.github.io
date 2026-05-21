@@ -70,6 +70,21 @@ p, ul {
   text-align: justify;
 }
 
+td, th {
+  font-size: 1.6rem;
+}
+
+.intro-container table {
+  table-layout: auto;
+}
+
+.intro-container table td:first-child,
+.intro-container table th:first-child {
+  width: 1%;
+  white-space: nowrap;
+  padding-right: 1.5rem;
+}
+
 a i {
   font-size:1.6rem;
 }
