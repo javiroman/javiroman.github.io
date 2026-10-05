@@ -10,7 +10,7 @@ website: https://artificial-intelligence-engineering.github.io/
 website_text: AI Engineering Blog
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 github_username:  javiroman

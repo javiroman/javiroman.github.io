@@ -172,6 +172,20 @@
     </tr>
     <tr>
       <td>
+        <br/><img src="images/terraform-logo.png" width="15%" height="15%" /><br/>
+      </td>
+      <td>HashiCorp Terraform</td>
+      <td>Infrastructure as code (IaC)</td>
+    </tr>
+    <tr>
+      <td>
+        <br/><img src="images/cloudformation-logo.png" width="15%" height="15%" /><br/>
+      </td>
+      <td>AWS CloudFormation</td>
+      <td>Infrastructure as code (IaC)</td>
+    </tr>
+    <tr>
+      <td>
         <br/><img src="images/vagrant-logo.png" width="15%" height="15%" /><br/>
       </td>
       <td>Harshicop Vagrant</td>

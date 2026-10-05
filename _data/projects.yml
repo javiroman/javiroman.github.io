@@ -1,5 +1,22 @@
 # Project template
 - layout: left
+  name: Artificial Intelligence Engineering
+  link: https://artificial-intelligence-engineering.github.io/
+  github: artificial-intelligence-engineering
+  description: | # this will include new lines to allow paragraphs
+    {:refdef: style="text-align: center;"}
+    ![image](images/ai-engineering-logo.png "Logo Title Text 2"){:height="25%" width="25%"}
+    {: refdef}
+
+    AI Engineering is a rapidly evolving discipline focused on building applications
+    and products on top of Foundation Models. On this open source site and community
+    resource, we compile all related engineering information—such as tools, frameworks,
+    glossaries, best practices, and resources for further study across Application
+    Development, Model Development, AI Product Infrastructure, and AI Product Governance.
+
+    *"We are no longer asking how to build models; we're asking how to build products that use models."* — Chip Huyen, *AI Engineering: Building Applications with Foundation Models*.
+
+- layout: left
   name: Kubernetes Big Data Engineering Group
   link: https://github.com/kubernetesbigdataeg
   github: kubernetesbigdataeg
@@ -15,19 +32,6 @@
     Kubernetes User Groups where though their central goal is not a deliverable 
     piece of work, one of the objectives of this project is to create user-ready
     deliverables and software tools.
-
-- layout: left
-  name: AntelopeDB
-  link: https://antelopedb.github.io/
-  github: antelopedb
-  description: | # this will include new lines to allow paragraphs
-    {:refdef: style="text-align: center;"}
-    ![image](images/antelopedb-logo.svg "Logo Title Text 2"){:height="10%" width="10%"}
-    {: refdef}
-
-    AntelopeDB is a new Hybrid Transaction/Analytical Processing (HTAP) Database 
-    Platform. This is a personal on goning open source project (ASLv2.0) actively 
-    maintained (contributions are welcome). Architecture overview <a href="https://github.com/antelopedb/antelopedb">here</a>.
 
 - layout: left
   name: Apache NiFi

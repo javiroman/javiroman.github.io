@@ -1,8 +1,25 @@
 - layout: left
+  company: Santander Digital Services
+  link: https://www.santanderdigitalservices.com/
+  jobs:
+    - title: AWS Cloud Architect (AI/Data)
+      dates: May 2023 - Present (3 yrs 6 mos)
+  description: |
+    {:refdef: style="text-align: left;"}
+    ![My image Name](images/santander-logo.png){:height="10%" width="10%"}
+    {: refdef}
+
+    Design systems and software to support information management and cloud services, including their implementation and maintenance in the field of Big Data cloud native technologies.
+
+    Significant knowledge of mass data management technologies in AWS and Azure CSPs, such as EMR EC2/Serverless, S3, Aurora RDS, Lakeformation, Glue Catalog, Athena, MSK, Snowball, Cost Explorer, CUR, Python Boto3 for development, and so forth.
+
+    Strongly involved in Cloud Cost Management, fully aligned with the FinOps Foundation as FinOps Foundation Community Member and FinOps Certified Practitioner (ongoing).
+
+- layout: left
   company: Keedio
   link: https://www.keedio.com/
   job_title: Software Engineer - CTO & Innovation Officer
-  dates: Nov 2018 - present
+  dates: Nov 2018 - May 2023 (4 yrs 7 mos)
   description: | 
     {:refdef: style="text-align: left;"}
     ![My image Name](images/keedio-logo-transparent.png){:height="10%" width="10%"}
