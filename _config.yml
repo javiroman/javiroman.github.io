@@ -41,8 +41,9 @@ skills_title: Skills
 education_title: Education 
 more_title: A Little More About Me
 more_content: | # this will iNCLUDe new lines to allow paragraphs
-  Professional photography studies. Editor of Street Photograpy Site: 
-    <a href="https://fujifilmstreet.photography">Fujifilm Street Photography</a>
+  Wildlife Photographer at [birdlife.photography](https://birdlife.photography/) and volunteer with [SEO/BirdLife](https://seo.org/voluntariado/).
+
+  Personal project: [Censo ZEPA](https://censozepa.github.io/) — Mobile Ornithological Census System for the Natura 2000 Network.
 
 # Footer
 footer_show_references: true
